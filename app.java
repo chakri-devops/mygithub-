@@ -18,3 +18,5 @@ public class HelloWorld {
 =======
 #added things in the file
 >>>>>>> Stashed changes
+
+    adding some data as specified by devloper
