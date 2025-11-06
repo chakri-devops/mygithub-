@@ -2,7 +2,9 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
+
 }
+<<<<<<< Updated upstream
 
 #dev2 added the code
     public class AddNumbers {
@@ -13,3 +15,6 @@ public class HelloWorld {
         System.out.println("Sum of " + num1 + " and " + num2 + " is: " + sum);
     }
 }
+=======
+#added things in the file
+>>>>>>> Stashed changes
