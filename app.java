@@ -20,3 +20,5 @@ public class HelloWorld {
 >>>>>>> Stashed changes
 
     adding some data as specified by devloper
+
+    We are modifing data in the file
